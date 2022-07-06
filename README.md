@@ -1,4 +1,4 @@
-# demo01
+# 基于VUE+THREE.JS开发3D模型展示web前端网站
 
 ## Project setup
 ```
