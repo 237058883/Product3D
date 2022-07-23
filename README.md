@@ -1,4 +1,4 @@
-# 基于VUE+THREE.JS前端开发的《3D模型展示》网站
+# 基于VUE+THREE.JS前端开发的《3D模型展示》网站,个人作品
 
 ## Project setup
 ```
